@@ -1,4 +1,3 @@
-# ecb-macro-analytics
 # ECB Exchange Rates ETL Pipeline
 
 End-to-end data pipeline for extracting, transforming, and storing daily exchange rate data from the European Central Bank (ECB), with a reporting layer connected via Power BI.
